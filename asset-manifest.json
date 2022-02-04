@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/app-landing/static/css/main.a582e426.css",
+    "main.js": "/app-landing/static/js/main.0558d741.js",
+    "static/media/footer-bg.png": "/app-landing/static/media/footer-bg.608dc50fa6e9a3871084.png",
+    "static/media/subscribe-bg.png": "/app-landing/static/media/subscribe-bg.05bca2289caa599db9bb.png",
+    "static/media/home-bg-img.png": "/app-landing/static/media/home-bg-img.28c24dc833ac9d9afafe.png",
+    "static/media/about-bg.png": "/app-landing/static/media/about-bg.38fdb5e58c5c09048cfd.png",
+    "index.html": "/app-landing/index.html",
+    "main.a582e426.css.map": "/app-landing/static/css/main.a582e426.css.map",
+    "main.0558d741.js.map": "/app-landing/static/js/main.0558d741.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a582e426.css",
+    "static/js/main.0558d741.js"
+  ]
+}
