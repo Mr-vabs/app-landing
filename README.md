@@ -1,6 +1,6 @@
 # <h1>App Landing React Project</h1>
 
-I'm making an app landing react project for assignment. This assignment is for an internship so that I can get shortlisted for the next or final round.
+I had made an app landing react project for assignment. This assignment is for an internship so that I can get shortlisted for the next or final round.
 
 ## Why React ?
 
