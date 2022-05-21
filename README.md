@@ -8,6 +8,6 @@ As we know react is fast and  very handy for single page, relod free, fast app. 
 
 ### Test the Deployed Project
 
-[deployment] is at https://Mr-vabs.github.io/app-landing/
+Deployment : [deployed](https://Mr-vabs.github.io/app-landing/)
 
 #### Contact me if it's broken, Thank You !
